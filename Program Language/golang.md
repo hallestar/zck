@@ -17,3 +17,7 @@
 [ifshort](https://github.com/esimonov/ifshort) 查找可以写得更加gopher(意同pythonic)的if语句
 
 [errcheck](https://github.com/kisielk/errcheck) 找出没经过检查的error，给出优化建议
+
+### 代码质量
+
+[gocyclo](https://github.com/fzipp/gocyclo) 计算代码圈复杂度
