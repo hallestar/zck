@@ -21,3 +21,7 @@
 ### 代码质量
 
 [gocyclo](https://github.com/fzipp/gocyclo) 计算代码圈复杂度
+
+## 库
+
+[govaluate](https://github.com/Knetic/govaluate) 支持任意c like的表达式解析求解
