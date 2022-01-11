@@ -2,4 +2,4 @@
 
 ## 开源库
 
-[nats](https://github.com/nats-io/nats-serv
+[nats](https://github.com/nats-io/nats-server)
