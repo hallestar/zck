@@ -9,3 +9,12 @@
 Install-Module -Name PSReadLine -RequiredVersion 2.1.0 -AllowPrerelease
 Set-PSReadLineOption -EditMode Emacs
 ```
+
+## core
+
+### 环境变量
+
+```powershell
+$Env:<variable-name> = "<new-value>"
+$Env:<variable-name>
+```
