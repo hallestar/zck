@@ -17,4 +17,7 @@ Set-PSReadLineOption -EditMode Emacs
 ```powershell
 $Env:<variable-name> = "<new-value>"
 $Env:<variable-name>
+# 返回所有环境变量
+gci env:* | sort-object name
+
 ```
