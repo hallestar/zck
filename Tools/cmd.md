@@ -13,3 +13,6 @@
 
 - du
 [dust](https://github.com/bootandy/dust)
+
+- grep|ack
+[ag](github.com/ggreer/the_silver_searcher)
