@@ -16,3 +16,8 @@
 
 - grep|ack
 [ag](github.com/ggreer/the_silver_searcher)
+
+## cmd
+
+- systemd-detect-virt
+检测主机是否是虚拟化环境
