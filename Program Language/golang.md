@@ -27,3 +27,4 @@
 [govaluate](https://github.com/Knetic/govaluate) 支持任意c like的表达式解析求解
 [bytebufferpool](https://github.com/valyala/bytebufferpool) 字节缓冲池
 [zerolog](github.com/rs/zerolog) 零拷贝日志库
+[xid](https://github.com/rs/xid) 全局唯一ID生成器, 用到了MongoDB的ObjectID生成算法
