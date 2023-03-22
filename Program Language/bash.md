@@ -80,3 +80,9 @@ function _showcolor256_bg() {
     echo -ne "\033[0m"
 }
 ```
+
+### 搜索包含关键字的文件并打开
+
+```bash
+vim $(rg . | fzf | cut -d ":" -f 1)
+```
