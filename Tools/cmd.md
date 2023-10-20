@@ -31,3 +31,7 @@
 
 - 系统监控
 [bottom](github.com/ClementTsang/bottom)
+
+- 可视化工具
+[VisiData](https://github.com/saulpw/visidata)
+
