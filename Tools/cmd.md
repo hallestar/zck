@@ -21,6 +21,10 @@
 - diff
 [delta](https://github.com/dandavison/delta)
 
+- cd & autojump
+[zoxide](https://github.com/ajeetdsouza/zoxide)
+很智能的跳转命令, `z home project`即可跳转到`/home/workspace/project`
+
 ## cmd
 
 - systemd-detect-virt
